@@ -1,0 +1,9 @@
+.section{
+    background-color: #161415;
+    
+    color: white;
+    padding: 8px 2%;
+}
+.shows{
+    display: flex;
+}

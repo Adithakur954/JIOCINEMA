@@ -1,0 +1,15 @@
+.shows{
+    background-color: #161415;
+    color: white;
+    padding: 4px 2%;
+    height: 400px;
+    
+}
+.showsparent{
+    display: flex;
+    
+    
+    color: #ffffff;
+   
+}
+
